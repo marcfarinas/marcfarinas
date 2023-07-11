@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Practice</b>
+  - [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
  
 <h2> 🤳 Connect with me:</h2>
 
