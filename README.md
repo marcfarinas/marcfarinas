@@ -1,4 +1,5 @@
-<h1>Hi, I'm Marc! <br/><h3>Cybersecurity Professional</h3>, <h3>Programmer</h3>
+<h1>Hi, I'm Marc! <br/>
+<a>Cybersecurity Professional</a>, <a>Programmer</a>
 
 <h2>👨‍💻 Capture the Flag Write-Ups:</h2>
 
