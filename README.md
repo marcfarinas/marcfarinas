@@ -1,8 +1,8 @@
 <h1>Hi, I'm Marc! <br/><a href="www.linkedin.com/in/marc-farinas-260444254">Cybersecurity Professional</a>, <a href="https://github.com/marciepoo">Programmer</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Capture the Flag Write-Ups:</h2>
 
-- <b>Active Directory Practice</b>
+- <b>Intro to Penetration Testing</b>
   - [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
 
 <h2>⌨️ Programming Projects:</h2>
