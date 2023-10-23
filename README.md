@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc! <br/><a href="www.linkedin.com/in/marc-farinas-260444254">Cybersecurity Professional</a>, <a href="https://github.com/marciepoo">Programmer</a>
+<h1>Hi, I'm Marc! <br/><a>Cybersecurity Professional</a>, <a>Programmer</a>
 
 <h2>👨‍💻 Capture the Flag Write-Ups:</h2>
 
