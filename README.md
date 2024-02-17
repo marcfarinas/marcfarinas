@@ -6,10 +6,9 @@
 - <b>Intro to Penetration Testing</b>
   - [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
 
-<h2>⌨️ Programming Projects:</h2>
+<h2>⌨️ Cybersecurity/Programming Projects:</h2>
 
-- <b>CSV Stock Reader</b>
-  - [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
+- <b>CSV Stock Reader</b> [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
  
 <h2>📱 Connect with me:</h2>
 
