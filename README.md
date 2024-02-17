@@ -3,10 +3,11 @@
 
 <h2>🚩 Capture the Flag Write-Ups:</h2>
 
-- [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
+- [___ Box](https://github.com/marciepoo/write-up-1)
 
 <h2>⌨️ Cybersecurity/Programming Projects:</h2>
 
+- [Homelab](https://github.com/marciepoo/homelab)
 - [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
  
 <h2>📱 Connect with me:</h2>
