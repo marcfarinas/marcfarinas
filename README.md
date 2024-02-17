@@ -1,10 +1,9 @@
 <h1>Hi, I'm Marc! <br/>
-<a>Cybersecurity Professional</a>, <a>Programmer</a>
+<a>Cybersecurity Student</a>, <a>Programmer</a>
 
 <h2>🚩 Capture the Flag Write-Ups:</h2>
 
-- <b>Intro to Penetration Testing</b>
-  - [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
+- [Practicing Active Directory](https://github.com/marciepoo/ActiveDirectoryLab)
 
 <h2>⌨️ Cybersecurity/Programming Projects:</h2>
 
