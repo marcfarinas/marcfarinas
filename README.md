@@ -8,8 +8,8 @@ Work in-progress!
 <h2>⌨️ Cybersecurity/Programming Projects:</h2>
 
 - [Homelab](https://github.com/marcfarinas/homelab)
-- [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
 - [Malware Analysis Lab](https://github.com/marcfarinas/malwareanalysislab)
+- [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
  
 <h2>📱 Connect with me:</h2>
 
