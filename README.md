@@ -3,12 +3,13 @@
 
 <h2>🚩 Capture the Flag Write-Ups:</h2>
 
-- [___ Box](https://github.com/marciepoo/write-up-1)
+Work in-progress!
 
 <h2>⌨️ Cybersecurity/Programming Projects:</h2>
 
 - [Homelab](https://github.com/marcfarinas/homelab)
 - [Stock Reader Project](https://github.com/marciepoo/StockReaderProject)
+- [Malware Analysis Lab](https://github.com/marcfarinas/malwareanalysislab)
  
 <h2>📱 Connect with me:</h2>
 
